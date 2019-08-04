@@ -1,5 +1,9 @@
-# Тестовое задание
+# Topic modeling
 
-Ноутбук с [LDA](LDA.ipynb), с [gensim doc2vec](Doc2Vec.ipynb) и [Attention Based Aspect Extraction](ABAE.ipynb)
+Given texts from social network I need to cluster them.
 
-Все обученные модели и результаты кластеризаций лежат на [google drive](https://drive.google.com/drive/folders/1zqjfVnM9NDCwhXH_eVQRMRqSqve_a9kY?usp=sharing)
+The train and test data is [here](https://yadi.sk/d/pgTXMnUgHi-ROA)
+
+Notebook with [LDA](LDA.ipynb), [gensim doc2vec](Doc2Vec.ipynb) and [Attention Based Aspect Extraction](ABAE.ipynb)
+
+The trained modules and results of clustering is accesible on [google drive](https://drive.google.com/drive/folders/1zqjfVnM9NDCwhXH_eVQRMRqSqve_a9kY?usp=sharing)
